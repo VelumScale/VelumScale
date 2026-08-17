@@ -8,4 +8,4 @@ I'm a cybersecurity student and infrastructure builder focused on hands-on secur
 Everything I work on lives in repositories below. This profile is the overview; each repo contains the deep dive—architecture diagrams, code, configs, and lessons learned.
 
 ### Connect 
-Portfolio: Velumscale.com
+Portfolio: [VelumScale](https://velumscale.com)
