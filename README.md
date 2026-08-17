@@ -1,5 +1,6 @@
 ## Drake Gorgenyi | VelumScale
 B.S Cybersecurity Technology @UMGC - Minor in Computer Science 
+
 CompTIA Security+ Certified 
 
 ### About Me 
